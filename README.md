@@ -22,6 +22,8 @@ I'm a passionate mobile app developer with a strong focus on Flutter and Dart. M
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
 
 
 ### 📱 My Projects
