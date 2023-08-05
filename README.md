@@ -41,9 +41,9 @@ I share my experiences and insights through blog posts and tutorials on my websi
 
 ### 📫 Let's Connect
 
-- Facebook: [https://twitter.com/username](https://twitter.com/username)
-- LinkedIn: [https://linkedin.com/in/username](https://linkedin.com/in/username)
-- Website: [https://example.com](https://example.com)
+- Facebook: [https://facebook.com/momen.rashed.52](https://facebook.com/momen.rashed.52)
+- LinkedIn: [https://www.linkedin.com/in/momen-mamhoud-6663bb286/](https://www.linkedin.com/in/momen-mamhoud-6663bb286/)
+
 
 Looking forward to connecting with fellow developers and collaborating on exciting mobile app projects. Feel free to reach out!
 
