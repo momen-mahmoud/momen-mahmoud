@@ -27,7 +27,7 @@ A feature-rich mobile app built with Flutter that helps users track their daily 
 
 
 #### Project 2: BMI Calculator
-Calculate body mass index to weight. [Play the game](https://github.com/momen-mahmoud/BMI-Calculator)
+Calculate body mass index to weight. [Check it out here](https://github.com/momen-mahmoud/BMI-Calculator)
 
 
 
