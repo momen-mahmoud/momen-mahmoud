@@ -14,10 +14,15 @@ I'm a passionate mobile app developer with a strong focus on Flutter and Dart. M
 
 ![Flutter](https://img.shields.io/badge/Flutter-2.2-blue?logo=flutter&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/Dart-2.13-blue?logo=dart&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-5C6EE6?logo=firebase&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat)
+
 
 ### 📱 My Projects
 
