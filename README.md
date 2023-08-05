@@ -33,7 +33,8 @@ Calculate body mass index to weight. [Play the game](https://github.com/momen-ma
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?momen-mahmoud=momen-mahmoud&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momen-mahmoud&show_icons=true&count_private=true)
+
 
 ### 📚 Blog & Tutorials
 
