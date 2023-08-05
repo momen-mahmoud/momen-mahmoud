@@ -2,8 +2,6 @@
 
 ## Flutter Enthusiast and Mobile App Developer
 
-![Profile Banner](https://i.pinimg.com/564x/38/3e/95/383e958c95cd5cf48335383b9592c2dd.jpg)
-
 I'm a passionate mobile app developer with a strong focus on Flutter and Dart. My goal is to create innovative and user-friendly mobile applications that make a positive impact on people's lives.
 
 ### 🚀 What I do
@@ -24,15 +22,14 @@ I'm a passionate mobile app developer with a strong focus on Flutter and Dart. M
 ### 📱 My Projects
 
 #### Project 1: Awesome Flutter App
-A feature-rich mobile app built with Flutter that helps users track their daily expenses and manage budgets effectively. [Check it out here](https://github.com/username/awesome-flutter-app)
+A feature-rich mobile app built with Flutter that helps users track their daily expenses and manage budgets effectively. [Check it out here](https://github.com/momen-mahmoud/goat_app)
 
-![Screenshot 1](https://example.com/screenshot1.jpg)
-![Screenshot 2](https://example.com/screenshot2.jpg)
 
-#### Project 2: Flutter Game
-An addictive 2D game built using Flutter and Flame game engine. [Play the game](https://github.com/username/flutter-game)
 
-![GIF](https://example.com/game.gif)
+#### Project 2: BMI Calculator
+Calculate body mass index to weight. [Play the game](https://github.com/momen-mahmoud/BMI-Calculator)
+
+
 
 ### 📈 GitHub Stats
 
@@ -44,7 +41,7 @@ I share my experiences and insights through blog posts and tutorials on my websi
 
 ### 📫 Let's Connect
 
-- Twitter: [https://twitter.com/username](https://twitter.com/username)
+- Facebook: [https://twitter.com/username](https://twitter.com/username)
 - LinkedIn: [https://linkedin.com/in/username](https://linkedin.com/in/username)
 - Website: [https://example.com](https://example.com)
 
