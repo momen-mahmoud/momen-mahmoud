@@ -26,29 +26,6 @@ I'm a passionate mobile app developer with a strong focus on Flutter and Dart. M
 
 
 
-### 📱 My Projects
-
-#### Project 1: Awesome Flutter App
-A feature-rich mobile app built with Flutter that helps users track their daily expenses and manage budgets effectively. [Check it out here](https://github.com/momen-mahmoud/goat_app)
-
-
-
-#### Project 2: BMI Calculator
-Calculate body mass index to weight. [Check it out here](https://github.com/momen-mahmoud/BMI-Calculator)
-
-
-
-### 📈 GitHub Stats
-
-![Momen Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momen-mahmoud&show_icons=true&count_private=true)
-
-
-
-### 📚 Blog & Tutorials
-
-I share my experiences and insights through blog posts and tutorials on my website. Feel free to check them out at [https://example.com/blog](https://example.com/blog)
-
-### 📫 Let's Connect
 
 - Facebook: [https://facebook.com/momen.rashed.52](https://facebook.com/momen.rashed.52)
 - LinkedIn: [https://www.linkedin.com/in/momen-mamhoud-6663bb286/](https://www.linkedin.com/in/momen-mamhoud-6663bb286/)
