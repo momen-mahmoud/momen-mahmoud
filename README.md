@@ -28,7 +28,7 @@ I'm a passionate mobile app developer with a strong focus on Flutter and Dart. M
 
 
 - Facebook: [https://facebook.com/momen.rashed.52](https://facebook.com/momen.rashed.52)
-- LinkedIn: [https://www.linkedin.com/in/momen-mamhoud-6663bb286/](https://www.linkedin.com/in/momen-mamhoud-6663bb286/)
+- LinkedIn: [www.linkedin.com/in/momen-mahmoud-6663bb286)
 
 
 Looking forward to connecting with fellow developers and collaborating on exciting mobile app projects. Feel free to reach out!
